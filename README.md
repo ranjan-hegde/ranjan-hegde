@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=282828&height=210&text=Ranjan.Hegde&fontSize=68&fontColor=fabd2f&animation=fadeIn&fontAlignY=57&desc&descColor=ebdbb2&descSize=15&descAlignY=74" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=282828&height=210&text=Ranjan-Hegde&fontSize=68&fontColor=fabd2f&animation=fadeIn&fontAlignY=57&desc&descColor=ebdbb2&descSize=15&descAlignY=74" />
 
 <br/>
 
